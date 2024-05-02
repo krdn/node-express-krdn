@@ -1,0 +1,9 @@
+{
+  "name": "node-express-krdn",
+  "version": "1.0.0",
+  "description": "node-express-boilerplate krdn버전으로 리뉴얼",
+  "main": "index.js",
+  "author": "Gon Kim",
+  "license": "MIT",
+  "private": false
+}
